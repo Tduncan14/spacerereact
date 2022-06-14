@@ -1,0 +1,63 @@
+
+
+.home {
+    background-image:url('/public/assets/home/background-home-desktop.jpg');
+    background-size:cover;
+    height:100vh;
+    width:100vw;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.homeright{
+    color:white;
+    width:50%;
+    margin-right:5rem;
+}
+
+
+
+
+.circle{
+
+    padding:3rem;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    position:absolute;
+    top:3.4rem;
+    left:1.9rem;
+    font-size:32px;
+
+
+}
+
+.topH{
+    margin-bottom:.5rem;
+    font-weight: 200;
+}
+
+.space1{
+    margin-bottom:2rem;
+    font-size: 10rem;
+    font-weight:300;
+}
+
+.spaceP{
+    line-height:25px;
+}
+
+
+.homeleft{
+
+    justify-content: center;
+    align-items: center;
+    position:relative;
+    background-color: white;
+    border-radius:50%;
+    height:250px;
+    width:250px;
+}
