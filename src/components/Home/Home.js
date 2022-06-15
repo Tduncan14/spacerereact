@@ -1,6 +1,7 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
 import './Home.css'
+import Header from './Header/Header';
 
 
 
@@ -16,9 +17,14 @@ const  Home = () => {
 
 
 
-
 return (
      <>
+       <Header />
+
+     <div className="top1">
+     
+        
+     </div>
       <div className="home">
 
 

@@ -1,16 +1,19 @@
 
 
 .home {
-    background-image:url('/public/assets/home/background-home-desktop.jpg');
-    background-size:cover;
-    height:100vh;
-    width:100vw;
     display:flex;
     justify-content: center;
     align-items: center;
+    position:relative;
+    top:-5.7rem;
+
 
 }
 
+
+.top1{
+    margin-top: 4rem;
+}
 
 .homeright{
     color:white;
@@ -44,6 +47,7 @@
     margin-bottom:2rem;
     font-size: 10rem;
     font-weight:300;
+
 }
 
 .spaceP{
@@ -61,3 +65,14 @@
     height:250px;
     width:250px;
 }
+
+.home{
+background-image:url('/public/assets/home/background-home-desktop.jpg');
+background-size:cover;
+height:100vh;
+width:100vw;
+position:absolute;
+top:0;
+left:0;
+}
+

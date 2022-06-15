@@ -1,0 +1,73 @@
+
+
+.imgs{
+    position:relative;
+    top:4.5rem;
+    left:7rem;
+    z-index: 1;
+}
+
+/* .blur{
+    backdrop-filter:blur(75px);
+    width:700px;
+    height:100px;
+    float:right;
+    margin-right:1%;
+    position:relative;
+} */
+
+
+
+.heading{
+    margin-bottom:10rem ;
+    margin-top:-2rem;
+
+}
+
+
+.header1{
+    display:flex;
+    left:20px;
+    position:relative;
+    left:55%;
+    padding:2rem;
+    color:white !important;
+    text-decoration:none;
+    backdrop-filter: blur(100px);
+    z-index: 1;
+    opacity:.8;
+    
+}
+
+.header1 li{
+    margin-left:4rem;
+    text-decoration:none;
+    list-style-type:none;
+    color:white !important;
+}
+
+
+.width{
+    width:37%;
+    position:relative;
+    left:20%;
+    top:47px;
+    height: .5px;
+    z-index: 2;
+    opacity:.3;
+}
+
+
+a {
+    color: #FFF;
+    text-decoration:none;
+  }
+
+
+  .hverwhite  a :hover{
+    text-decoration: underline;
+    
+    
+  }
+
+  

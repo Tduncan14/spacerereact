@@ -1,0 +1,129 @@
+
+
+.container{
+    margin-bottom:7rem;
+}
+
+.subheaderh1{
+    margin-bottom: 2rem;
+    font-size:24px;
+    position:relative;
+    opacity:0.9;
+    top:-2.5rem;
+    left:5rem;
+    color:white;
+    letter-spacing:5px;
+}
+
+.pot{
+    opacity: .3;
+    font-weight: 400;
+}
+
+body{
+
+    background-image:url('/public/assets/destination/background-destination-desktop.jpg');
+    z-index:-1;
+    height: 100vh;
+    background-size:cover;
+    top:0;
+    left:0;
+ 
+        
+}
+
+
+
+
+
+
+.flex{
+    display:flex;
+    width:50%;
+    margin-left:15rem;
+}
+
+
+.moonList li{
+    display:flex; 
+    margin-right:.5rem;
+    opacity:.7;
+}
+
+.list{
+    color:white;
+}
+
+
+
+/* moon names */
+
+.subheader{
+    margin-left:15rem;
+    display:flex;
+    margin-top:-5rem;
+}
+
+.subheaderh1{
+    color:white;
+}
+
+.moonList{
+    display:flex;
+ 
+}
+
+.moonTitles{
+ 
+}
+
+
+
+/* content body */
+
+
+.planetImg{
+    margin-right:12rem;
+    margin-left:-9rem;
+}
+
+
+.planetP{
+    margin-top:2rem;
+    color:white;
+    line-height:1.5rem;
+    opacity: .5;
+}
+
+
+.planetH{
+    font-size:120px;
+    color:white;
+    font-weight: 200;
+}
+
+
+.planetInfo{
+    margin-bottom:2rem;
+}
+
+.line{
+    width: 375px;
+    height:1px;
+    background-color: white;
+    opacity:.5;
+    margin-bottom:1rem;
+    margin-top:4rem;
+
+
+}
+
+
+
+
+
+.timeNspace{
+   display:flex;
+   color:white;
+   justify-content: space-between;
+}
